@@ -5,8 +5,7 @@ This repository contains the code and report for Final Project 2.
 ## Clone
 
 ```bash
-git clone <repository-url>
-cd "Numerical Method for PDE"
+git clone https://github.com/Siu-math/Math-104C-Project-II
 ```
 
 ## Run
