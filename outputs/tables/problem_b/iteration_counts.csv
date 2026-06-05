@@ -1,0 +1,16 @@
+method,case,h,k,lambda,total iterations,max step iterations,converged
+Backward Difference,stable_h_0p025_k_0p00025,0.025,0.00025,0.3999999999999999,84930,18,True
+Crank-Nicolson,stable_h_0p025_k_0p00025,0.025,0.00025,0.3999999999999999,63687,13,True
+Forward Difference,stable_h_0p025_k_0p00025,0.025,0.00025,0.3999999999999999,0,0,True
+Backward Difference,stable_h_0p05_k_0p001,0.05,0.001,0.3999999999999999,23359,19,True
+Crank-Nicolson,stable_h_0p05_k_0p001,0.05,0.001,0.3999999999999999,17456,14,True
+Forward Difference,stable_h_0p05_k_0p001,0.05,0.001,0.3999999999999999,0,0,True
+Backward Difference,stable_h_0p1_k_0p0005,0.1,0.0005,0.04999999999999999,22288,9,True
+Crank-Nicolson,stable_h_0p1_k_0p0005,0.1,0.0005,0.04999999999999999,19367,7,True
+Forward Difference,stable_h_0p1_k_0p0005,0.1,0.0005,0.04999999999999999,0,0,True
+Backward Difference,stable_h_0p1_k_0p005,0.1,0.005,0.4999999999999999,5277,20,True
+Crank-Nicolson,stable_h_0p1_k_0p005,0.1,0.005,0.4999999999999999,3939,15,True
+Forward Difference,stable_h_0p1_k_0p005,0.1,0.005,0.4999999999999999,0,0,True
+Backward Difference,unstable_h_0p1_k_0p01,0.1,0.01,0.9999999999999998,3974,30,True
+Crank-Nicolson,unstable_h_0p1_k_0p01,0.1,0.01,0.9999999999999998,2706,20,True
+Forward Difference,unstable_h_0p1_k_0p01,0.1,0.01,0.9999999999999998,0,0,True

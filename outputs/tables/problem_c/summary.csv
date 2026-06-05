@@ -1,0 +1,19 @@
+problem,experiment,initial condition,method,case,h,k,lambda,stability,time steps,space intervals,total iterations,max step iterations,converged,final max error,max error,mean error
+Problem C,different_initial_conditions,mixed_modes,Backward Difference,different_initial_mixed_modes,0.05,0.001,0.3999999999999999,stable,100,20,1919,20,True,0.0025128878053321535,0.011338697906502215,0.0027701154282860716
+Problem C,different_initial_conditions,mixed_modes,Crank-Nicolson,different_initial_mixed_modes,0.05,0.001,0.3999999999999999,stable,100,20,1413,15,True,0.0007416808598611491,0.0033457563334730045,0.0008081949474569467
+Problem C,different_initial_conditions,mixed_modes,Forward Difference,different_initial_mixed_modes,0.05,0.001,0.3999999999999999,stable,100,20,0,0,True,0.0010476717347962516,0.004983630435392072,0.001172003159653165
+Problem C,different_initial_conditions,sin_2pi,Backward Difference,different_initial_sin_2pi,0.05,0.001,0.3999999999999999,stable,100,20,1891,20,True,0.0021808022239933576,0.010114391625920038,0.0037909542683225235
+Problem C,different_initial_conditions,sin_2pi,Crank-Nicolson,different_initial_sin_2pi,0.05,0.001,0.3999999999999999,stable,100,20,1386,15,True,0.0006247325821210695,0.002980726889976637,0.0011100776823197622
+Problem C,different_initial_conditions,sin_2pi,Forward Difference,different_initial_sin_2pi,0.05,0.001,0.3999999999999999,stable,100,20,0,0,True,0.0008740355349341859,0.004294140028097637,0.0015884347188185124
+Problem C,mesh_refinement,mixed_modes,Backward Difference,mesh_refinement_h_0p0125,0.0125,6.25e-05,0.3999999999999999,stable,1600,80,27563,19,True,0.00015822678393506706,0.0007425351122699597,0.00018389349109273182
+Problem C,mesh_refinement,mixed_modes,Crank-Nicolson,mesh_refinement_h_0p0125,0.0125,6.25e-05,0.3999999999999999,stable,1600,80,19738,14,True,4.6546711964579046e-05,0.00021845133704034847,5.405897348454967e-05
+Problem C,mesh_refinement,mixed_modes,Forward Difference,mesh_refinement_h_0p0125,0.0125,6.25e-05,0.3999999999999999,stable,1600,80,0,0,True,6.520173531165963e-05,0.00030701730477700195,7.58492641502143e-05
+Problem C,mesh_refinement,mixed_modes,Backward Difference,mesh_refinement_h_0p025,0.025,0.00025,0.3999999999999999,stable,400,40,7297,20,True,0.000631993246898499,0.0029492958422517868,0.000723609843007785
+Problem C,mesh_refinement,mixed_modes,Crank-Nicolson,mesh_refinement_h_0p025,0.025,0.00025,0.3999999999999999,stable,400,40,5287,14,True,0.0001860325294748555,0.0008683063720941187,0.00021239628413901056
+Problem C,mesh_refinement,mixed_modes,Forward Difference,mesh_refinement_h_0p025,0.025,0.00025,0.3999999999999999,stable,400,40,0,0,True,0.00026102920110165906,0.0012345918768679187,0.00029998569852202463
+Problem C,mesh_refinement,mixed_modes,Backward Difference,mesh_refinement_h_0p05,0.05,0.001,0.3999999999999999,stable,100,20,1919,20,True,0.0025128878053321535,0.011338697906502215,0.0027701154282860716
+Problem C,mesh_refinement,mixed_modes,Crank-Nicolson,mesh_refinement_h_0p05,0.05,0.001,0.3999999999999999,stable,100,20,1413,15,True,0.0007416808598611491,0.0033457563334730045,0.0008081949474569467
+Problem C,mesh_refinement,mixed_modes,Forward Difference,mesh_refinement_h_0p05,0.05,0.001,0.3999999999999999,stable,100,20,0,0,True,0.0010476717347962516,0.004983630435392072,0.001172003159653165
+Problem C,mesh_refinement,mixed_modes,Backward Difference,mesh_refinement_h_0p1,0.1,0.004,0.3999999999999999,stable,25,10,438,19,True,0.009778654739831305,0.04013208838704552,0.009967134917744704
+Problem C,mesh_refinement,mixed_modes,Crank-Nicolson,mesh_refinement_h_0p1,0.1,0.004,0.3999999999999999,stable,25,10,332,14,True,0.002928347957535604,0.011933706320087833,0.002836629944509352
+Problem C,mesh_refinement,mixed_modes,Forward Difference,mesh_refinement_h_0p1,0.1,0.004,0.3999999999999999,stable,25,10,0,0,True,0.004247373984676062,0.021335621515962133,0.004565634939555836
